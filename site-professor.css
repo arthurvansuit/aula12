@@ -77,16 +77,17 @@
       display: flex;
       width: 1204px;
       height: 300px;
-      border: 1px solid black;
       margin-top: 20px;
   }
 
   .img1 img {
       width: 602px;
       height: 100%;
+      border: 1px solid yellow;
   }
 
   .img2 img {
     width: 602px;
     height: 100%;
+    border: 1px solid yellow;
 }
